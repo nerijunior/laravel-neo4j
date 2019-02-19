@@ -1,0 +1,16 @@
+{
+    "name": "neri/laravel-neo4j",
+    "description": "Neo4J connector to Eloquent",
+    "type": "library",
+    "require": {
+        "graphaware/neo4j-php-client": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Neri J. Jakubowski Jr.",
+            "email": "neri@nerijunior.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
