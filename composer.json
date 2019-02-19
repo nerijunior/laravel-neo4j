@@ -1,9 +1,9 @@
 {
     "name": "neri/laravel-neo4j",
-    "description": "Neo4J connector to Eloquent",
+    "description": "Neo4J wrapper for Eloquent",
     "type": "library",
     "require": {
-        "graphaware/neo4j-php-client": "dev-master"
+        "graphaware/neo4j-php-client": "4.8.*"
     },
     "license": "MIT",
     "authors": [

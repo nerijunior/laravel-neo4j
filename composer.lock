@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "41a9157957879412df8b7a65ffe33a21",
+    "content-hash": "269bc788341d50867f14519eb9bb83f6",
     "packages": [
         {
             "name": "clue/stream-filter",
@@ -152,16 +152,16 @@
         },
         {
             "name": "graphaware/neo4j-php-client",
-            "version": "dev-master",
+            "version": "4.8.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/graphaware/neo4j-php-client.git",
-                "reference": "8f731604a7b503f4b662d52a602f13640dc787ae"
+                "reference": "3e90a37f0aaf476c42574ffa2aa28dc2edf5a78b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/graphaware/neo4j-php-client/zipball/8f731604a7b503f4b662d52a602f13640dc787ae",
-                "reference": "8f731604a7b503f4b662d52a602f13640dc787ae",
+                "url": "https://api.github.com/repos/graphaware/neo4j-php-client/zipball/3e90a37f0aaf476c42574ffa2aa28dc2edf5a78b",
+                "reference": "3e90a37f0aaf476c42574ffa2aa28dc2edf5a78b",
                 "shasum": ""
             },
             "require": {
@@ -212,7 +212,7 @@
                 "http",
                 "neo4j"
             ],
-            "time": "2019-01-03T18:47:17+00:00"
+            "time": "2018-11-21T12:08:48+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -1139,9 +1139,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "graphaware/neo4j-php-client": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
